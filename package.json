@@ -1,0 +1,17 @@
+{
+  "name": "playwright-snapshot-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "Osanda Nimalarathna",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.21",
+    "playwright": "^1.52.0",
+    "typescript": "^5.8.3"
+  }
+}
